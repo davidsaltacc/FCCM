@@ -18,4 +18,4 @@ FYI the UI will probably be developed with flutter. the backend will be made wit
 the aim is to kind of replicate most features of popular messaging services, so things like: Group Chats, Direct Messages, E2E Encryption (Obviously), File Uploading, and possibly less relevant things like Stickers, Gifs, Statuses, Voice Messages, One-Time-View type messages, and more.
 
 ## Chat Control
-It sucks. Read more about it here: https://fightchatcontrol.eu/
+It really fucking sucks. Read more about it here: https://fightchatcontrol.eu/
