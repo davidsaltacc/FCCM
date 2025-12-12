@@ -1,0 +1,8 @@
+bin
+obj
+.vs
+.idea
+
+package-lock.json
+node_modules
+build

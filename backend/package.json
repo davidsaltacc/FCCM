@@ -1,0 +1,14 @@
+{
+  "name": "fccm-backend",
+  "version": "0.0.1",
+  "description": "Backend for FCCM",
+  "type": "commonjs",
+  "main": "main.js",
+  "devDependencies": {
+    "@types/node": "^25.0.1",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+	  "main": "npx tsc --project tsconfig.json && node build/main.js"
+  }
+}
