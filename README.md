@@ -13,5 +13,9 @@ If you have any concerns believing this would not work, reach out.
 
 !!! This is just me preparing for the worst case scenario! It is not guaranteed Chat Control will take action. It is a possibility though, and I will try my every part to resist this possible 1984-esque regime.
 
+FYI the UI will probably be developed with flutter. the backend will be made with node/js, expressjs and mongodb (and websockets ig), although nothing is sure yet, might be subject to change
+
+the aim is to kind of replicate most features of popular messaging services, so things like: Group Chats, Direct Messages, E2E Encryption (Obviously), File Uploading, and possibly less relevant things like Stickers, Gifs, Statuses, Voice Messages, One-Time-View type messages, and more.
+
 ## Chat Control
 It sucks. Read more about it here: https://fightchatcontrol.eu/
